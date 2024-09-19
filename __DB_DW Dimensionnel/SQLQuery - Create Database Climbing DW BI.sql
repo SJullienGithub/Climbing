@@ -1,0 +1,3 @@
+CREATE DATABASE Climbing_DW_BI
+
+

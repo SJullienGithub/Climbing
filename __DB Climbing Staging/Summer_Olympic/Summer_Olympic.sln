@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Summer_Olympic", "Summer_Olympic.dtproj", "{6E067CE8-D053-47C5-99E4-E199445E2A19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E067CE8-D053-47C5-99E4-E199445E2A19}.Development|Default.ActiveCfg = Development
+		{6E067CE8-D053-47C5-99E4-E199445E2A19}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D7BF5E7-5CC1-4EDE-B883-C57AB3AF8FE5}
+	EndGlobalSection
+EndGlobal

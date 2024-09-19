@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Climbing_DW_Dim_Integration", "Climbing_DW_Dim_Integration.dtproj", "{5E62CE02-5EBB-4B5A-846D-C7FD40A378FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E62CE02-5EBB-4B5A-846D-C7FD40A378FF}.Development|Default.ActiveCfg = Development
+		{5E62CE02-5EBB-4B5A-846D-C7FD40A378FF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBB590D4-A2FB-44B2-BAC3-8474ED17258B}
+	EndGlobalSection
+EndGlobal
